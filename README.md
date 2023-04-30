@@ -1,8 +1,8 @@
-# 👀 **DBoard Smart Contract**
+# 🤝 **DBoard Smart Contract**
 
 ## **About**
 オープンソースプロジェクト「DBoard」のコントラクトのリポジトリです。<br>
-フロントエンドのリポジトリと合わせて、DBoard は動いています！
+[フロントエンドのリポジトリ](https://github.com/koshin01/dboard-front)と合わせて、DBoard は動いています！
 
 ## **Tech Stack**
 コントラクトの技術スタックは👇の通りです。
