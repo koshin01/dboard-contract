@@ -14,9 +14,9 @@
 - Hardhat<br>
 
 ## **Thanks**
-[UNCHAIN](https://unchain.tech)
-[Flowbite](https://flowbite.com)
-[Blobmaker](https://www.blobmaker.app)
+[UNCHAIN](https://unchain.tech)<br>
+[Flowbite](https://flowbite.com)<br>
+[Blobmaker](https://www.blobmaker.app)<br>
 
 ***
 <br>
