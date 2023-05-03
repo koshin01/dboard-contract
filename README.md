@@ -13,6 +13,11 @@
 **フレームワーク**<br>
 - Hardhat<br>
 
+## **Thanks**
+[UNCHAIN](https://unchain.tech)
+[Flowbite](https://flowbite.com)
+[Blobmaker](https://www.blobmaker.app)
+
 ***
 <br>
 このリポジトリがDApps 開発に役に立ってくれたら嬉しいです🫡
